@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class HudManager : MonoBehaviour {
     //Initializing variables
@@ -14,6 +15,7 @@ public class HudManager : MonoBehaviour {
     private void Update()
     {
         UpdateHud();
+        WinScreen();
     }
 
     void UpdateHud()
@@ -42,6 +44,14 @@ public class HudManager : MonoBehaviour {
         //Reduce player score
         scoreCountPlayer -= decreaseScore;
         UpdateHud();
+    }
+
+    void WinScreen()
+    {
+        if (scoreCountPlayer == 20)
+        {
+            SceneManager.LoadScene("WinScreen");
+        }
     }
 
 }
