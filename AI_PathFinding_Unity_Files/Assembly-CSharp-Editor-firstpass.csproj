@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{975D0A5B-B9BA-8930-3CE6-391A1F5BB8B8}</ProjectGuid>
+    <ProjectGuid>{D906D066-50A1-82EB-CF9C-270FDAC1C517}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -73,37 +73,37 @@
     <Compile Include="Assets\Plugins\Editor\BehaviourMachineEditor\Wrapper\BlackboardEditor.cs" />
     <Compile Include="Assets\Plugins\Editor\BehaviourMachineEditor\Wrapper\MonoStateEditor.cs" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -295,13 +295,13 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="BehaviourMachineRuntime">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Assets/Plugins/BehaviourMachine/BehaviourMachineRuntime.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Assets/Plugins/BehaviourMachine/BehaviourMachineRuntime.dll</HintPath>
     </Reference>
     <Reference Include="BehaviourMachineEditor">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Assets/Plugins/Editor/BehaviourMachineEditor/BehaviourMachineEditor.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Assets/Plugins/Editor/BehaviourMachineEditor/BehaviourMachineEditor.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/Firaa/Documents/GitHub/Collector/AI_PathFinding_Unity_Files/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/Firaa/Documents/AI_PathFinding/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -660,7 +660,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{64F636D4-88DF-445B-4042-D13EDBF89197}</Project>
+      <Project>{217917D9-DD6D-3EFD-9D7B-39965A8533BE}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
